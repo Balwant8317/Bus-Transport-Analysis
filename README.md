@@ -12,7 +12,7 @@
 1. **Data Collection and Preprocessing:** Data Is Provided By Our Univesity by kaggle
 2. **Exploratory Data Analysis (EDA):** I Have Done EDA Using Pyspark 
 3. **Predictive Model Development:** Done by using Machine Learning Alorithms ex Liner Regression
-4. **Data Visualization:** PowerBI
+4. **Data Visualization:** PowerBI,Amazon QuickSight,Looker Studio,Azure Power BI,
 
 ## Azure
 
